@@ -5,15 +5,14 @@ Steps to create tap brew::
 
 1.  cargo build --release
 2.  target/release/ffind
-3.  cd target/release
-4.  cp ffind ff
-5.  tar -czf ff.tar.gz ff
-6.  shasum -a 256 ff.tar.gz
-7.  copy shasum to ff.rb
-8.  update version in ff.rb
-9.  update git
-10. push
-11. brew tap mjehrhart/ff/ff
-12. brew install mjehrhart/ff/ff
-    brew reinstall mjehrhart/ff/ff
-    brew upgrade mjehrhart/ff/ff
+3.  cd target/release 
+4.  tar -czf minty.tar.gz minty
+5.  shasum -a 256 minty.tar.gz
+6.  copy shasum to minty.rb
+7.  update version in minty.rb
+8.  update git
+9.  push
+10. brew tap mjehrhart/minty
+11. brew install mjehrhart/minty/minty
+    brew reinstall mjehrhart/minty/minty
+    brew upgrade mjehrhart/minty/minty
