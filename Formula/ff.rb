@@ -1,5 +1,5 @@
  class Minty < Formula
-  desc "Fast Find is a cli written in rust using rayon parrellism for super fast results."
+  desc "Very fast file depublication app written in rust using parrellism with a rust gui."
   homepage "https://github.com/mjehrhart/minty"
   url "https://github.com/mjehrhart/minty/releases/download/publish/minty.tar.gz"
   version "1.0.0"
