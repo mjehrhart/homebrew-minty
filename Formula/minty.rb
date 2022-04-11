@@ -1,5 +1,5 @@
  class Minty < Formula
-  desc "Very fast file depublication app written in rust using parrellism with a rust gui."
+  desc "Very fast file deduplication app written in rust using parrellism with a rust gui."
   homepage "https://github.com/mjehrhart/minty"
   url "https://github.com/mjehrhart/minty/releases/download/publish/minty.tar.gz"
   version "2.0.0"
