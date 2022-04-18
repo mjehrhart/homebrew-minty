@@ -1,9 +1,9 @@
  class Minty < Formula
   desc "Extremely fast file deduplication app written in rust using parrellism with a rust gui."
   homepage "https://github.com/mjehrhart/minty"
-  url "https://github.com/mjehrhart/minty/releases/download/v1.1.1/minty.tar.gz"
-  version "1.1.1"
-  sha256 "1e81470d7f1b7baefa11e0baf2df95bf97e434281485c994cfa0f1fc7cc3a334"
+  url "https://github.com/mjehrhart/minty/releases/download/v2.0.0/minty.tar.gz"
+  version "2.0.0"
+  sha256 "6d4eb970de22d51055a8b9b6c26af9b22bde895dc649db5b98e57c3c90b0abb5"
   license "BSD 2-Clause License"
 
   def install
