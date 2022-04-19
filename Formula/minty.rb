@@ -3,7 +3,7 @@
   homepage "https://github.com/mjehrhart/minty"
   url "https://github.com/mjehrhart/minty/releases/download/v2.0.3/minty.tar.gz"
   version "2.0.3"
-  sha256 "26ee407a4c9b18b5fecd5f1eb628ec21c9bd4bf4b3862e06ac379b7e78ddc893"
+  sha256 "7f924555ecc1cb6014863ba533793f5e06929b9b4f7d512cbb47b321bfbdd3aa"
   license "BSD 2-Clause License"
 
   def install
